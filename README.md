@@ -1,4 +1,4 @@
 # 1. Install Google Chrome
 
 * Go to Settings:
-  - gang
+  - disable all on **Autofill and passwords**
