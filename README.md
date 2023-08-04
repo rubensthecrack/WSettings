@@ -19,4 +19,4 @@
 # 2. Windows
 
 * Go to Settings:
- - **Autofill and passwords**
+  - **System**
