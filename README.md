@@ -1,4 +1,4 @@
-# 1. Browser
+# 1. Install Google Chrome
 
-* Install Google Chrome
-* 
+* Go to Settings:
+  - gang
