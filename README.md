@@ -1,4 +1,2 @@
-# PC-Guide
-
 # Navegador
-Instale Google Chrome
+> Instale Google Chrome
