@@ -1,2 +1,3 @@
-# Navegador
-> Instale Google Chrome
+# 1. Navegador
+
+* Instale Google Chrome
