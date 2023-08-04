@@ -1,6 +1,6 @@
 # 1. [Install Google Chrome](https://www.google.com/chrome/)
 
-* Go to Settings:
+* Go to [Settings](chrome://settings):
   - **Autofill and passwords**
      - disable all
   - **Privacy and security**
