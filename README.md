@@ -1,5 +1,10 @@
 # 1. Install Google Chrome
 
 * Go to Settings:
-  - disable all on **Autofill and passwords**
-     - shit
+  - **Autofill and passwords**
+     - disable all
+  - **Privacy and security**
+     - Ad Privacy > disable all
+     - Security > disable "Use secure DNS"
+  - **Performancer**
+    - disable "Memory Saver"
