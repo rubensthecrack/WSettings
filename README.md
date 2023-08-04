@@ -2,3 +2,4 @@
 
 * Go to Settings:
   - disable all on **Autofill and passwords**
+     - shit
