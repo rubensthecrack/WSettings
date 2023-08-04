@@ -1,4 +1,4 @@
-# 1. Install Google Chrome
+# 1. [Install Google Chrome](https://www.google.com/chrome/)
 
 * Go to Settings:
   - **Autofill and passwords**
