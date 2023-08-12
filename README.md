@@ -2,21 +2,22 @@
 
 * Go to Settings:
   - **Autofill and passwords**
-     - disable all
+   - disable all
   - **Privacy and security**
-     - Ad Privacy > disable all
-     - Security > disable "Use secure DNS"
+   - Ad Privacy > disable all
+   - Security > disable "Use secure DNS"
   - **Performancer**
-    - disable "Memory Saver"
+   - disable "Memory Saver"
   - **On Startup**
-    - check "Continue where you left off"
+   - check "Continue where you left off"
   - **Accessibility**
-    - disable all
+   - disable all
   - **System**
-    - disable "Continue running background apps when Google Chrome is closed"
-    - enable "Use hardware acceleration when available"
+   - disable "Continue running background apps when Google Chrome is closed"
+   - enable "Use hardware acceleration when available"
 
 # 2. Windows
 
 * Go to Settings:
   - **System**
+   - 
