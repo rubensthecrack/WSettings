@@ -2,7 +2,7 @@
 
 * Go to Settings:
   - **Autofill and passwords**
-   - disable all
+    - disable all
   - **Privacy and security**
    - Ad Privacy > disable all
    - Security > disable "Use secure DNS"
@@ -16,7 +16,7 @@
    - disable "Continue running background apps when Google Chrome is closed"
    - enable "Use hardware acceleration when available"
 
-# 2. Windows
+# 2. [Windows 10](https://go.microsoft.com/fwlink/?LinkId=691209)
 
 * Go to Settings:
   - **System**
