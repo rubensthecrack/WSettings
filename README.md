@@ -16,7 +16,7 @@
    - disable "Continue running background apps when Google Chrome is closed"
    - enable "Use hardware acceleration when available"
 
-# 2. [Windows 10](https://go.microsoft.com/fwlink/?LinkId=691209)
+# 2. [Windows 10]([https://go.microsoft.com/fwlink/?LinkId=691209](https://www.microsoft.com/pt-br/software-download/windows10)https://www.microsoft.com/pt-br/software-download/windows10)
 
 * Go to Settings:
   - **System**
