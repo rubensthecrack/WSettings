@@ -1,5 +1,5 @@
-# 1. Browser
-## Install [Google Chrome](https://www.google.com/chrome/)
+# Browser
+### Install [Google Chrome](https://www.google.com/chrome/)
 ### Go to **Settings**:
 
 1. **Autofill and passwords**
