@@ -12,8 +12,10 @@
    - disable all
 
 2. **Privacy and security**
-   - Ad Privacy > disable all
-   - Security > disable "Use secure DNS"
+   - Ad Privacy
+      - disable all
+   - Security
+      - disable "Use secure DNS"
 
 3. **Performancer**
    - disable "Memory Saver"
