@@ -3,7 +3,7 @@
 ### Go to **Settings**:
 
 1. **Autofill and passwords**
-- disable all
+   - disable all
 
  - **Privacy and security**
   - Ad Privacy > disable all
