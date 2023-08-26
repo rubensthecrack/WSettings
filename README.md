@@ -22,7 +22,7 @@
    - enable "Use hardware acceleration when available"
 
 
-# Install [Windows 10](https://go.microsoft.com/fwlink/?LinkId=691209) and go to **Settings**:
+# Install [Windows 10](https://www.microsoft.com/pt-br/software-download/windows10) and go to **Settings**:
 ### Go to **Settings**:
 
 1. **System**
