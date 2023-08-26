@@ -1,3 +1,10 @@
+# Install [Windows 10](https://www.microsoft.com/pt-br/software-download/windows10) and go to **Settings**:
+### Go to **Settings**:
+
+1. **System**
+   - a
+
+
 # Browser
 ### Install [Google Chrome](https://www.google.com/chrome/) and go to **Settings**:
 
@@ -20,10 +27,3 @@
 6. **System**
    - disable "Continue running background apps when Google Chrome is closed"
    - enable "Use hardware acceleration when available"
-
-
-# Install [Windows 10](https://www.microsoft.com/pt-br/software-download/windows10) and go to **Settings**:
-### Go to **Settings**:
-
-1. **System**
-   - a
