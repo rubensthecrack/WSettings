@@ -1,5 +1,5 @@
 # 1. Browser
-## Install [Google Chrome](https://www.google.com/chrome/) andd go to **Settings**:
+### Install [Google Chrome](https://www.google.com/chrome/) andd go to **Settings**:
 
 - **Autofill and passwords**
  - disable all
