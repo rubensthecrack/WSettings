@@ -1,6 +1,5 @@
 # Browser
-### Install [Google Chrome](https://www.google.com/chrome/)
-### Go to **Settings**:
+### Install [Google Chrome](https://www.google.com/chrome/) and go to **Settings**:
 
 1. **Autofill and passwords**
    - disable all
@@ -23,7 +22,7 @@
    - enable "Use hardware acceleration when available"
 
 
-# [Windows 10]([https://go.microsoft.com/fwlink/?LinkId=691209](https://www.microsoft.com/pt-br/software-download/windows10)https://www.microsoft.com/pt-br/software-download/windows10)
+# Install [Windows 10]([https://www.microsoft.com/pt-br/software-download/windows10) and go to **Settings**:
 ### Go to **Settings**:
 
 1. **System**
