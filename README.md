@@ -1,11 +1,9 @@
 # 1. Browser
-## Install [Google Chrome](https://www.google.com/chrome/)
-_ _
-- Settings:
- - **Autofill and passwords**
+## Install [Google Chrome](https://www.google.com/chrome/) andd go to **Settings**:
+
+- **Autofill and passwords**
  - disable all
 
- - 
  - **Privacy and security**
   - Ad Privacy > disable all
   - Security > disable "Use secure DNS"
